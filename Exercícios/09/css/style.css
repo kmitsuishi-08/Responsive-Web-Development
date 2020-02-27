@@ -1,0 +1,64 @@
+body {
+	padding: 15px;
+	font: 18px Baskerville, "Palatino Linotype", "Times New Roman", Times, serif;
+	text-align: center;
+	
+}
+
+img {
+	opacity: 0.6;
+}
+
+div, h1, h2, h3, p {
+		margin: 0;
+		padding: 0;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+	text-align: center;
+}
+
+h2, h3 {
+	color: #666;
+	font-size: 18px;
+	font-style: italic;
+	margin-bottom: 30px;
+}
+
+p {
+	line-height: 1.5;
+	margin-bottom: 15px;
+}
+
+h1:before {
+	
+	background-image: url("../img/img_brasil_icon.png");
+    background-size: 60px 55px;
+    display: inline-block;
+    width: 60px; 
+    height: 55px;
+    content:"";
+}
+			
+h1:after {
+	background-image: url("../img/img_brasil_icon.png");
+    background-size: 60px 55px;
+    display: inline-block;
+    width: 60px; 
+    height: 55px;
+    content:"";
+}
+
+h2:before {
+	content: '— ';
+}
+			
+h2:after {
+	content: ' —';
+}
+
+#hymn{
+	margin: auto;
+	padding: 20px 0;
+}

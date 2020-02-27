@@ -1,0 +1,9 @@
+body{
+	font: 18px Baskerville, "Palatino Linotype", "Times New Roman", Times, serif;
+	padding: 15px;
+}
+img{
+	width: 350px;
+	height: 300px;
+	float: left
+}

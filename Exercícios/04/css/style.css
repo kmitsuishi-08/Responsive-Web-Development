@@ -1,0 +1,20 @@
+body{
+	font: 18px Baskerville, "Palatino Linotype", "Times New Roman", Times, serif;
+}
+h1 {
+
+	font-style: italic;
+}
+h2 {
+
+	color:orange;
+	margin-bottom: 50px;
+}
+
+.header {
+	padding: 15px;
+}
+.main {
+	padding: 15px;
+	width: 45%;
+}

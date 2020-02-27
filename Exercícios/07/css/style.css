@@ -1,0 +1,10 @@
+body {
+	padding: 15px;
+}
+
+label{
+ font-weight: bold;
+}
+p.footer{
+	font-style: italic;
+}

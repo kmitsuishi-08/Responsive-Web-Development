@@ -1,0 +1,10 @@
+label{
+ font-weight: bold;
+}
+body {
+	padding: 15px;
+	font: 18px Baskerville, "Palatino Linotype", "Times New Roman", Times, serif;
+}
+p{
+	width: 70%;
+}
